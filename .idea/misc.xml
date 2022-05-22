@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/github/app/src/main/res/drawable-v24/ripple_effect.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/adjust48px.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/app_main_gradient.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/backround_item_popular.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/backround_my_work.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/backround_my_work2.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/ic_add_circle.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/ic_back.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/ic_baseline_explore_24.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/ic_discussions.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/ic_email.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/ic_git_pull_request.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/ic_git_repository.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/ic_git_repository2.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/ic_history.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/ic_home.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/ic_location.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/ic_more_horz.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/ic_notifications.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/ic_organization.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/ic_person.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/ic_rating.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/ic_ratingy.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/ic_search.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/ic_share.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/ic_star_svgrepo_com.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/loading_animation.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/loading_img.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/drawable/view_rounded_background.xml" value="0.1065" />
+        <entry key="..\:/github/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.11512717536813923" />
+        <entry key="..\:/github/app/src/main/res/layout-w1240dp/item_search_result.xml" value="0.11512717536813923" />
+        <entry key="..\:/github/app/src/main/res/layout/activity_login.xml" value="0.17916666666666667" />
+        <entry key="..\:/github/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/github/app/src/main/res/layout/activity_profile.xml" value="0.17916666666666667" />
+        <entry key="..\:/github/app/src/main/res/layout/activity_repository.xml" value="0.17916666666666667" />
+        <entry key="..\:/github/app/src/main/res/layout/activity_search.xml" value="0.17916666666666667" />
+        <entry key="..\:/github/app/src/main/res/layout/activity_search_user.xml" value="0.17916666666666667" />
+        <entry key="..\:/github/app/src/main/res/layout/activity_splash.xml" value="0.17916666666666667" />
+        <entry key="..\:/github/app/src/main/res/layout/activity_splash2.xml" value="0.17916666666666667" />
+        <entry key="..\:/github/app/src/main/res/layout/custom_dialog_loading.xml" value="0.17916666666666667" />
+        <entry key="..\:/github/app/src/main/res/layout/fragment_explore.xml" value="0.17916666666666667" />
+        <entry key="..\:/github/app/src/main/res/layout/fragment_home.xml" value="0.128" />
+        <entry key="..\:/github/app/src/main/res/layout/fragment_notifications.xml" value="0.17916666666666667" />
+        <entry key="..\:/github/app/src/main/res/layout/fragment_profile.xml" value="0.16" />
+        <entry key="..\:/github/app/src/main/res/layout/fragment_search.xml" value="0.17916666666666667" />
+        <entry key="..\:/github/app/src/main/res/layout/item_repository.xml" value="0.17916666666666667" />
+        <entry key="..\:/github/app/src/main/res/layout/item_search_result.xml" value="0.17916666666666667" />
+        <entry key="..\:/github/app/src/main/res/layout/item_user.xml" value="0.1" />
+        <entry key="..\:/github/app/src/main/res/layout/repository_popula_layout.xml" value="0.1" />
+        <entry key="..\:/github/app/src/main/res/menu/bottom_nav_menu.xml" value="0.17916666666666667" />
+        <entry key="..\:/github/app/src/main/res/menu/main_menu.xml" value="0.17916666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

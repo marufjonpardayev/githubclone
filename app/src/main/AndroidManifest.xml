@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="uz.transport.githubclone">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher__round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Githubclone">
+        <activity
+            android:name=".ui.activity.SearchUserActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.activity.SearchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.activity.RepositoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.activity.LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="callback"
+                    android:scheme="githubapps" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.activity.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.activity.MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ui.activity.ProfileActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>
